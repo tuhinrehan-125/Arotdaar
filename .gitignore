@@ -1,0 +1,27 @@
+/node_modules
+/public/hot
+/public/storage
+/public/images
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+arotv2.sql
+
+# parcel-bundler cache (https://parceljs.org/)
+/Arot-FrontEnd/.cache
+
+# next.js build output
+/Arot-FrontEnd/.next
+
+# nuxt.js build output
+/Arot-FrontEnd/.nuxt
+
+# Nuxt generate
+/Arot-FrontEnd/dist
